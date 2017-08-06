@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501799830 source:/home/samarjit98/Programming_tasks/cpp_task/balance_expression/main.cpp
+	<iostream>
+	<stack>
+
